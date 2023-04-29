@@ -1,0 +1,9 @@
+pandas
+streamlit
+plotly.express
+altair
+matplotlib.pyplot
+seaborn
+numpy
+pycaret.regression
+vega_datasets
